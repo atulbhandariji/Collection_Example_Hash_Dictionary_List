@@ -1,0 +1,13 @@
+C:\kelltonTech\CollectionExample\bin\Debug\netcoreapp3.1\CollectionsExample.exe
+C:\kelltonTech\CollectionExample\bin\Debug\netcoreapp3.1\CollectionsExample.deps.json
+C:\kelltonTech\CollectionExample\bin\Debug\netcoreapp3.1\CollectionsExample.runtimeconfig.json
+C:\kelltonTech\CollectionExample\bin\Debug\netcoreapp3.1\CollectionsExample.runtimeconfig.dev.json
+C:\kelltonTech\CollectionExample\bin\Debug\netcoreapp3.1\CollectionsExample.dll
+C:\kelltonTech\CollectionExample\bin\Debug\netcoreapp3.1\CollectionsExample.pdb
+C:\kelltonTech\CollectionExample\obj\Debug\netcoreapp3.1\CollectionsExample.csprojAssemblyReference.cache
+C:\kelltonTech\CollectionExample\obj\Debug\netcoreapp3.1\CollectionsExample.AssemblyInfoInputs.cache
+C:\kelltonTech\CollectionExample\obj\Debug\netcoreapp3.1\CollectionsExample.AssemblyInfo.cs
+C:\kelltonTech\CollectionExample\obj\Debug\netcoreapp3.1\CollectionsExample.csproj.CoreCompileInputs.cache
+C:\kelltonTech\CollectionExample\obj\Debug\netcoreapp3.1\CollectionsExample.dll
+C:\kelltonTech\CollectionExample\obj\Debug\netcoreapp3.1\CollectionsExample.pdb
+C:\kelltonTech\CollectionExample\obj\Debug\netcoreapp3.1\CollectionsExample.genruntimeconfig.cache

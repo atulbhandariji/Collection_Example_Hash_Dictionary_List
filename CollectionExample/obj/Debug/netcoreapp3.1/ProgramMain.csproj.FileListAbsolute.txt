@@ -1,0 +1,13 @@
+C:\kelltonTech\ProgramMain\bin\Debug\netcoreapp3.1\ProgramMain.exe
+C:\kelltonTech\ProgramMain\bin\Debug\netcoreapp3.1\ProgramMain.deps.json
+C:\kelltonTech\ProgramMain\bin\Debug\netcoreapp3.1\ProgramMain.runtimeconfig.json
+C:\kelltonTech\ProgramMain\bin\Debug\netcoreapp3.1\ProgramMain.runtimeconfig.dev.json
+C:\kelltonTech\ProgramMain\bin\Debug\netcoreapp3.1\ProgramMain.dll
+C:\kelltonTech\ProgramMain\bin\Debug\netcoreapp3.1\ProgramMain.pdb
+C:\kelltonTech\ProgramMain\obj\Debug\netcoreapp3.1\ProgramMain.csprojAssemblyReference.cache
+C:\kelltonTech\ProgramMain\obj\Debug\netcoreapp3.1\ProgramMain.AssemblyInfoInputs.cache
+C:\kelltonTech\ProgramMain\obj\Debug\netcoreapp3.1\ProgramMain.AssemblyInfo.cs
+C:\kelltonTech\ProgramMain\obj\Debug\netcoreapp3.1\ProgramMain.csproj.CoreCompileInputs.cache
+C:\kelltonTech\ProgramMain\obj\Debug\netcoreapp3.1\ProgramMain.dll
+C:\kelltonTech\ProgramMain\obj\Debug\netcoreapp3.1\ProgramMain.pdb
+C:\kelltonTech\ProgramMain\obj\Debug\netcoreapp3.1\ProgramMain.genruntimeconfig.cache
